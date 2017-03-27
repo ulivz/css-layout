@@ -21,9 +21,9 @@ Well-designed CSS layout samples
 
 ## Compatibility
 
-- `float`： IE6+, Firefox 2+, Chrome 1+ etc
-- `negative margin`: since IE6+, Firefox 2+, Chrome 1+ etc)
-- `flex`： 
+- `float`： IE6+, Firefox 2+, Chrome 1+ etc;
+- `negative margin`: since IE6+, Firefox 2+, Chrome 1+ etc;
+- `flex`： till 2017-3-28: 
 
 <img style="width: 70%" src="img/03.png" alt="">
 
@@ -31,4 +31,4 @@ Well-designed CSS layout samples
 
 - Two columns in PC-side —— `float`;
 - Three columns in PC-side —— `margin`;
-- Mobile application —— `flex`;
+- Mobile application —— `flex`。
