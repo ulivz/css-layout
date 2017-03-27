@@ -19,6 +19,12 @@ body {
     margin-right: 20px;
 }
 
+.subtitle {
+    font-size: 12px;
+    position: relative;
+    top: -30px;
+}
+
 header, footer, .title {
     height: 100px;
     line-height: 100px;
