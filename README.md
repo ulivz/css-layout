@@ -22,8 +22,8 @@ Well-designed CSS layout samples
 ## Compatibility
 
 - `float`： IE6+, Firefox 2+, Chrome 1+ etc;
-- `negative margin`: since IE6+, Firefox 2+, Chrome 1+ etc;
-- `flex`： till 2017-3-28: 
+- `negative margin`: IE6+, Firefox 2+, Chrome 1+ etc;
+- `flex`： Till 2017-3-28: 
 
 <img style="width: 70%" src="img/03.png" alt="">
 
