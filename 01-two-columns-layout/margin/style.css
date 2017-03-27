@@ -9,16 +9,14 @@ body {
     padding: 50px;
 }
 
-header, footer, title {
-    height: 60px;
-    line-height: 60px;
+header, footer, .title {
+    height: 100px;
+    line-height: 100px;
 }
 
 header, footer {
     box-sizing: border-box;
-
     background: #b47552;
-
     text-align: center;
 }
 

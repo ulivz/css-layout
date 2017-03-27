@@ -19,7 +19,7 @@ body {
     margin-right: 20px;
 }
 
-.subtitle {
+.subtitle{
     font-size: 12px;
     position: relative;
     top: -30px;
@@ -35,22 +35,25 @@ header, footer {
 }
 
 .main {
-    overflow: auto;
+    display: flex;
 }
 
-.main .content, .main .aside {
+.main .content, .main .aside-left, .main .aside-right {
     height: 300px;
     line-height: 300px;
 }
 
 .main .content {
     height: 300px;
+    flex: 1;
     line-height: 300px;
     background: #d2ad9a;
 }
 
-.main .aside {
+.main .aside-left, .main .aside-right {
     width: 100px;
+    font-size: 15px;
+    flex: 0 0 100px;
     float: left;
     background: #805249;
 }
