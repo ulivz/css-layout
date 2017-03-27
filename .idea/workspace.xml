@@ -40,8 +40,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01-two-columns-layout/flex/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="310">
+              <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -51,8 +51,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="833">
-                <caret line="32" column="27" lean-forward="false" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+              <first_editor relative-caret-position="399">
+                <caret line="19" column="40" lean-forward="false" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -159,7 +159,6 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="483" />
-    <option name="y" value="22" />
     <option name="width" value="1878" />
     <option name="height" value="1390" />
   </component>
@@ -290,6 +289,7 @@
       <recent name="D:\Work\Coding\GitHub\css-layout\01-two-columns-layout\margin" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Work\Coding\GitHub\css-layout\img" />
       <recent name="D:\Work\Coding\GitHub\css-layout\02-three-columns-layout" />
       <recent name="D:\Work\Coding\GitHub\css-layout" />
       <recent name="D:\Work\Coding\GitHub\css-layout\01-two-columns-layout" />
@@ -379,15 +379,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1490633408475</updated>
-      <workItem from="1490633409602" duration="4569000" />
+      <workItem from="1490633409602" duration="5100000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4569000" />
+    <option name="totallyTimeSpent" value="5100000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="483" y="22" width="1878" height="1390" extended-state="0" />
+    <frame x="483" y="0" width="1878" height="1390" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24972558" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -483,26 +483,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02-three-columns-layout/flex/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02-three-columns-layout/margin/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="496">
           <caret line="40" column="1" lean-forward="false" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02-three-columns-layout/flex/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -525,10 +509,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/02-three-columns-layout/flex/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-three-columns-layout/flex/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/01-two-columns-layout/flex/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="310">
+          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
           <folding />
         </state>
       </provider>
@@ -536,8 +536,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="833">
-            <caret line="32" column="27" lean-forward="false" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+          <first_editor relative-caret-position="399">
+            <caret line="19" column="40" lean-forward="false" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
             <folding />
           </first_editor>
           <second_editor />
