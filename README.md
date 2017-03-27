@@ -15,9 +15,9 @@ Well-designed CSS layout samples
 
 ## Demo
 
-<img style="width: 70%" src="img/01.png" alt="">
+<img style="width: 300px" src="img/01.png" alt="">
 
-<img style="width: 70%" src="img/02.png" alt="">
+<img style="width: 300px" src="img/02.png" alt="">
 
 # Compatibility
 
