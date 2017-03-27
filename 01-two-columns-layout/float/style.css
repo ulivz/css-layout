@@ -22,12 +22,12 @@ body {
 .subtitle {
     font-size: 12px;
     position: relative;
-    top: -30px;
+    top: -10px;
 }
 
 header, footer, .title {
-    height: 100px;
-    line-height: 100px;
+    height: 60px;
+    line-height: 60px;
 }
 
 header, footer {

@@ -9,12 +9,33 @@ body {
     padding: 50px;
 }
 
+header, footer, title {
+    height: 60px;
+    line-height: 60px;
+}
+
 header, footer {
     box-sizing: border-box;
-    height: 60px;
+
     background: #b47552;
-    line-height: 60px;
+
     text-align: center;
+}
+
+.title:after {
+    content: '——';
+    margin-left: 20px;
+}
+
+.title:before {
+    content: '——';
+    margin-right: 20px;
+}
+
+.subtitle {
+    font-size: 12px;
+    position: relative;
+    top: -30px;
 }
 
 
@@ -44,6 +65,8 @@ header, footer {
     background: #805249;
     margin-left: -100px;
 }
+
+
 
 
 
