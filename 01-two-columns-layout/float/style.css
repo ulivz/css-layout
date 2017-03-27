@@ -9,41 +9,47 @@ body {
     padding: 50px;
 }
 
-header, footer {
-    box-sizing: border-box;
-    height: 60px;
-    background: #b47552;
-    line-height: 60px;
-    text-align: center;
+.title:after {
+    content: '——';
+    margin-left: 20px;
 }
 
+.title:before {
+    content: '——';
+    margin-right: 20px;
+}
+
+header, footer, .title {
+    height: 100px;
+    line-height: 100px;
+}
+
+header, footer {
+    background: #b47552;
+}
 
 .main {
     overflow: auto;
+}
+
+.main .content, .main .aside {
+    height: 300px;
     line-height: 300px;
 }
 
-.main .content-wrapper {
+.main .content {
     height: 300px;
-    float: left;
-    width: 100%;
-}
-
-.main .content-wrapper .content {
-    margin-right: 100px;
-    height: 300px;
+    line-height: 300px;
     background: #d2ad9a;
 }
 
 .main .aside {
-    border-left: 0;
-    border-left: 0;
-    height: 300px;
     width: 100px;
     float: left;
     background: #805249;
-    margin-left: -100px;
 }
+
+
 
 
 
