@@ -1,6 +1,6 @@
 # CSS layout
 
-Well-designed CSS layout samples
+CSS layout samples
 
 ## Layout List
 
