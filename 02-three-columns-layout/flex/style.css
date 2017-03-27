@@ -25,6 +25,10 @@ body {
     top: -30px;
 }
 
+.subtitle a {
+    color: #fff;
+}
+
 header, footer, .title {
     height: 100px;
     line-height: 100px;

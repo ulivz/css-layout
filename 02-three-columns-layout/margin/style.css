@@ -36,6 +36,10 @@ header, footer {
     top: -30px;
 }
 
+.subtitle a {
+    color: #fff;
+}
+
 .main {
     overflow: auto;
     line-height: 300px;
