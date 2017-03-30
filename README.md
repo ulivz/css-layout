@@ -15,9 +15,17 @@ CSS layout samples
 
 ## Demo
 
+### Two Columns Layout
+
 <img style="width: 300px" src="img/1.gif" alt="">
 
+### Three Columns Layout
+
 <img style="width: 300px" src="img/2.gif" alt="">
+
+### CSS Center - Text
+
+<img style="width: 300px" src="img/3.gif" alt="">
 
 ## Compatibility
 
