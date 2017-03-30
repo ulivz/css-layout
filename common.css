@@ -45,3 +45,7 @@ body {
 .subtitle a {
     color: #fff;
 }
+
+.note {
+    font-size: 14px;
+}
