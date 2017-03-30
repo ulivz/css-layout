@@ -1,8 +1,8 @@
 .block-wrapper {
-    height: 100px;
-    line-height: 100px;
+    height: 300px;
+    line-height: 300px;
     width: 100%;
-    border: 1px solid #f00;
+    background: #b47552;
     text-align: center;
     font-size: 0;
 }
@@ -10,7 +10,7 @@
 .block{
     display: inline-block;
     vertical-align: middle;
-    height: 50px;
+    height: 150px;
     width: 50%;
-    border: 1px solid #0f0;
+    background: #d2ad9a;
 }
