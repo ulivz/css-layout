@@ -12,6 +12,15 @@ CSS layout samples
 - Three Columns Layout
 	- via `negative margin`
 	- via `flexbox`
+	
+- CSS Center Layout
+	- Text
+		- Single Line
+		- Multiple Lines
+	- Block
+		- Inline Block
+		- Block
+
 
 ## Demo
 
