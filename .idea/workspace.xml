@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="865ac8c4-fd0c-44be-bdc7-da0abaf9eef0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03-css-center-layout/block/index.html" afterPath="$PROJECT_DIR$/03-css-center-layout/block/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03-css-center-layout/block/style.css" afterPath="$PROJECT_DIR$/03-css-center-layout/block/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common.css" afterPath="$PROJECT_DIR$/common.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -42,8 +41,8 @@
       <file leaf-file-name="common.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/common.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="658">
-              <caret line="38" column="11" lean-forward="true" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+            <state relative-caret-position="801">
+              <caret line="52" column="20" lean-forward="false" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -102,8 +101,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/03-css-center-layout/block/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            <state relative-caret-position="837">
+              <caret line="23" column="26" lean-forward="false" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -153,12 +152,12 @@
         <option value="$PROJECT_DIR$/01-two-columns-layout/margin/style.css" />
         <option value="$PROJECT_DIR$/02-three-columns-layout/flex/style.css" />
         <option value="$PROJECT_DIR$/02-three-columns-layout/margin/style.css" />
-        <option value="$PROJECT_DIR$/common.css" />
         <option value="$PROJECT_DIR$/03-css-center-layout/inline/style.css" />
         <option value="$PROJECT_DIR$/03-css-center-layout/inline/index.html" />
         <option value="$PROJECT_DIR$/03-css-center-layout/text/index.html" />
         <option value="$PROJECT_DIR$/03-css-center-layout/text/style.css" />
         <option value="$PROJECT_DIR$/03-css-center-layout/block/style.css" />
+        <option value="$PROJECT_DIR$/common.css" />
         <option value="$PROJECT_DIR$/03-css-center-layout/block/index.html" />
       </list>
     </option>
@@ -202,6 +201,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="css-layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css-layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css-layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="03-css-center-layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -385,12 +402,12 @@
       <option name="presentableId" value="Default" />
       <updated>1490633408475</updated>
       <workItem from="1490633409602" duration="6191000" />
-      <workItem from="1490848682552" duration="3992000" />
+      <workItem from="1490848682552" duration="4507000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10183000" />
+    <option name="totallyTimeSpent" value="10698000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1270" y="0" width="1300" height="1390" extended-state="0" />
@@ -604,14 +621,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="38" column="11" lean-forward="true" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03-css-center-layout/text/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
@@ -644,10 +653,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="801">
+          <caret line="52" column="20" lean-forward="false" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/03-css-center-layout/block/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        <state relative-caret-position="837">
+          <caret line="23" column="26" lean-forward="false" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
           <folding />
         </state>
       </provider>
