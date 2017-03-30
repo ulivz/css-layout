@@ -25,7 +25,7 @@ CSS layout samples
 
 ### CSS Center - Text
 
-<img style="width: 300px" src="img/3.gif" alt="">
+<img style="width: 300px" src="img/.gif" alt="">
 
 ## Compatibility
 
