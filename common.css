@@ -1,6 +1,6 @@
 body {
     font-family: Microsoft Yahei;
-    font-size: 30px;
+    font-size: 35px;
     font-weight: 100;
     color: #fbfdfe;
     text-align: center;
@@ -10,13 +10,13 @@ body {
 
 @media screen and (max-width: 1000px) {
     body {
-        font-size: 25px;
+        font-size: 30px;
     }
 }
 
 @media screen and (max-width: 500px) {
     body {
-        font-size: 15px;
+        font-size: 25px;
     }
 }
 
