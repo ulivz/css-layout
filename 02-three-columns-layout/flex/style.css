@@ -1,24 +1,5 @@
-.title:after {
-    content: '——';
-    margin-left: 20px;
-}
 
-.title:before {
-    content: '——';
-    margin-right: 20px;
-}
-
-.subtitle{
-    font-size: 12px;
-    position: relative;
-    top: -30px;
-}
-
-.subtitle a {
-    color: #fff;
-}
-
-header, footer, .title {
+header, footer {
     height: 100px;
     line-height: 100px;
 }
