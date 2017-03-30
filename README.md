@@ -25,7 +25,11 @@ CSS layout samples
 
 ### CSS Center - Text
 
-<img style="width: 300px" src="img/.gif" alt="">
+<img style="width: 300px" src="img/3.gif" alt="">
+
+### CSS Center - block
+
+<img style="width: 300px" src="img/4.gif" alt="">
 
 ## Compatibility
 
