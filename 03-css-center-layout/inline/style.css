@@ -1,38 +1,8 @@
-body {
-    font-family: Microsoft Yahei;
-    font-size: 25px;
-    font-weight: 100;
-}
-
-.title {
-    height: 100px;
-}
-
-.title:after {
-    content: '——';
-    margin-left: 20px;
-}
-
-.title:before {
-    content: '——';
-    margin-right: 20px;
-}
-
-.subtitle{
-    font-size: 12px;
-    position: relative;
-    top: -30px;
-}
-
-.subtitle a {
-    color: #fff;
-}
-
 
 .wrapper {
     width: 100%;
     height:200px;
     line-height: 200px;
     text-align: center;
-    background: #2a2a2a;
+    background: #b47552;
 }

@@ -1,6 +1,6 @@
 body {
     font-family: Microsoft Yahei;
-    font-size: 25px;
+    font-size: 30px;
     font-weight: 100;
     color: #fbfdfe;
     text-align: center;
@@ -8,7 +8,20 @@ body {
     padding: 50px;
 }
 
+@media screen and (max-width: 1000px) {
+    body {
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    body {
+        font-size: 15px;
+    }
+}
+
 .title {
+    overflow: hidden;
     height: 100px;
     line-height: 100px;
 }
